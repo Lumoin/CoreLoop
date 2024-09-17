@@ -1,0 +1,1 @@
+dotnet stryker --config-file stryker-config.json --reporter progress --reporter html --project CoreLoop.UNTransparencyProtocol.csproj

@@ -1,0 +1,1 @@
+dotnet pack --verbosity normal --configuration Release --output './generated-nugets' --include-symbols --include-source -property:PackageVersion=0.0.1 './src/CoreLoop.UNTransparencyProtocol/CoreLoop.UNTransparencyProtocol.csproj'
