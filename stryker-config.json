@@ -1,0 +1,13 @@
+{
+    "stryker-config":
+    {
+		"language-version": "preview",
+        "test-projects": ["test/CoreLoop.Tests/CoreLoop.Tests.csproj"],
+        "mutation-level": "Standard",
+        "ignore-methods": [
+            "*Log*",
+            "ToString",
+            "*HashCode*"
+        ]
+    }
+}
