@@ -16,7 +16,7 @@
     <PackageVersion Include="NSec.Cryptography" Version="24.4.0" />
     <PackageVersion Include="Portable.BouncyCastle" Version="1.9.0" />
     <PackageVersion Include="SharpFuzz" Version="2.1.1" />
-    <PackageVersion Include="SIL.ReleaseTasks" Version="3.0.0" />
+    <PackageVersion Include="SIL.ReleaseTasks" Version="3.1.0" />
     <PackageVersion Include="System.Text.Json" Version="9.0.0" />
     <PackageVersion Include="CsCheck" Version="3.2.2" />
   </ItemGroup>
